@@ -34,9 +34,13 @@ sealed class ConfigurationElement<T>(
     /** The actual value of the element. */
     internal var actual : Optional<T> = Absent
 
-    override fun onDelegation() {
+    override fun onDelegation(
+        owner : Configuration,
+        property : KProperty<*>,
+        name : String
+    ) {
         // Register ourselves with our owner
-        owner.registerElement(this as ConfigurationElement<Any?>)
+        owner.registerElement(this as ConfigurationElement<Any?>, name)
     }
 
     /**

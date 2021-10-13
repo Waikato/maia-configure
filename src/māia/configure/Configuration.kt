@@ -41,9 +41,12 @@ abstract class Configuration : ConfigurationVisitable {
      * @param element   The configuration element being registered with this
      *                  configuration.
      */
-    internal fun registerElement(element : ConfigurationElement<Any?>) {
-        orderedElementNames.add(element.name)
-        elements[element.name] = element
+    internal fun registerElement(
+        element : ConfigurationElement<Any?>,
+        name: String
+    ) {
+        orderedElementNames.add(name)
+        elements[name] = element
     }
 
     /**
