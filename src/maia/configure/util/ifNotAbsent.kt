@@ -1,8 +1,8 @@
-package māia.configure.util
+package maia.configure.util
 
-import māia.configure.error.AbsentError
-import māia.util.ThenContinuationWithFailureValue
-import māia.util.ThenContinuationWithSuccessValue
+import maia.configure.error.AbsentError
+import maia.util.ThenContinuationWithFailureValue
+import maia.util.ThenContinuationWithSuccessValue
 
 /**
  * Attempts to access an element of a configuration. Returns an object which

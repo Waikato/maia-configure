@@ -1,4 +1,4 @@
-package māia.configure.error
+package maia.configure.error
 
 /**
  * Exception for when an attempt is made to use a configuration in an

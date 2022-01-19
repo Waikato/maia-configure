@@ -1,4 +1,4 @@
-package māia.configure.visitation
+package maia.configure.visitation
 
 /**
  * Allows a configuration-visitor to visit a configuration-visitable.

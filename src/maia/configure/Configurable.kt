@@ -1,4 +1,4 @@
-package māia.configure
+package maia.configure
 
 /*
  * TODO
@@ -7,11 +7,11 @@ package māia.configure
  *       Configuration which instantiates.
  */
 
-import māia.configure.error.ConfigurableNotRegisteredError
-import māia.configure.error.NoConfigurationBlockConstructorError
-import māia.configure.error.NoConfigurationObjectConstructorError
-import māia.configure.visitation.ConfigurationVisitable
-import māia.util.*
+import maia.configure.error.ConfigurableNotRegisteredError
+import maia.configure.error.NoConfigurationBlockConstructorError
+import maia.configure.error.NoConfigurationObjectConstructorError
+import maia.configure.visitation.ConfigurationVisitable
+import maia.util.*
 import kotlin.reflect.KClass
 import kotlin.reflect.KType
 import kotlin.reflect.KTypeProjection

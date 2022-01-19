@@ -1,4 +1,4 @@
-package māia.configure.error
+package maia.configure.error
 
 /**
  * Error for when trying to resolve a dotted name of a configuration element,

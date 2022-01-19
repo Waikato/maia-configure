@@ -1,6 +1,6 @@
-package māia.configure.error
+package maia.configure.error
 
-import māia.configure.ConfigurationElement
+import maia.configure.ConfigurationElement
 
 /**
  * Error when an attempt is made to clear a configuration element

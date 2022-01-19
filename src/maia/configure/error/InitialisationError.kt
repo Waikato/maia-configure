@@ -1,4 +1,4 @@
-package māia.configure.error
+package maia.configure.error
 
 /**
  * Exception that occurs when there is a problem during initialisation

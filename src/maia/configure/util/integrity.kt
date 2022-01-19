@@ -1,12 +1,12 @@
-package māia.configure.util
+package maia.configure.util
 
 /*
  * Package for common integrity checks for configurations.
  */
 
-import māia.configure.*
-import māia.util.isNotSubClassOf
-import māia.util.kotlinClass
+import maia.configure.*
+import maia.util.isNotSubClassOf
+import maia.util.kotlinClass
 import kotlin.reflect.KClass
 
 /**

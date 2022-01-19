@@ -1,7 +1,7 @@
-package māia.configure.visitation
+package maia.configure.visitation
 
-import māia.configure.Configuration
-import māia.configure.ConfigurationElement
+import maia.configure.Configuration
+import maia.configure.ConfigurationElement
 import kotlin.reflect.KClass
 
 /**

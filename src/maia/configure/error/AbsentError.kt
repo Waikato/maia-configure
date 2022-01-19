@@ -1,6 +1,6 @@
-package māia.configure.error
+package maia.configure.error
 
-import māia.configure.ConfigurationElement
+import maia.configure.ConfigurationElement
 
 /**
  * Error for when trying to access an optional element that

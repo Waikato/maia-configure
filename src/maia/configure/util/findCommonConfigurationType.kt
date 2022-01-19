@@ -1,7 +1,7 @@
-package māia.configure.util
+package maia.configure.util
 
-import māia.configure.Configuration
-import māia.util.isSubClassOf
+import maia.configure.Configuration
+import maia.util.isSubClassOf
 import kotlin.reflect.KClass
 
 

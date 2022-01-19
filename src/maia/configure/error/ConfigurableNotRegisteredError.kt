@@ -1,6 +1,6 @@
-package māia.configure.error
+package maia.configure.error
 
-import māia.configure.Configurable
+import maia.configure.Configurable
 import kotlin.reflect.KClass
 
 /**

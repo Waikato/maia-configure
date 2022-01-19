@@ -1,10 +1,10 @@
-package māia.configure
+package maia.configure
 
-import māia.configure.error.*
-import māia.configure.util.getCommonConfigurationElements
-import māia.configure.util.ifNotAbsent
-import māia.configure.visitation.ConfigurationVisitable
-import māia.util.*
+import maia.configure.error.*
+import maia.configure.util.getCommonConfigurationElements
+import maia.configure.util.ifNotAbsent
+import maia.configure.visitation.ConfigurationVisitable
+import maia.util.*
 import kotlin.reflect.*
 import kotlin.reflect.full.memberProperties
 

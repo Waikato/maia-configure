@@ -1,8 +1,8 @@
-package māia.configure.util
+package maia.configure.util
 
-import māia.configure.Configuration
-import māia.util.isSubClassOf
-import māia.util.kotlinClass
+import maia.configure.Configuration
+import maia.util.isSubClassOf
+import maia.util.kotlinClass
 
 /**
  * Gets a list of names of configuration elements that two configurations share.

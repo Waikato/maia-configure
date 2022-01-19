@@ -1,8 +1,8 @@
-package māia.configure.util
+package maia.configure.util
 
-import māia.configure.Configuration
-import māia.util.property.CachedReadOnlyProperty
-import māia.util.isSubClassOf
+import maia.configure.Configuration
+import maia.util.property.CachedReadOnlyProperty
+import maia.util.isSubClassOf
 import kotlin.reflect.KClass
 import kotlin.reflect.full.superclasses
 

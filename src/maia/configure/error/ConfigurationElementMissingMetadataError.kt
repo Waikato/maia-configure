@@ -1,4 +1,4 @@
-package māia.configure.error
+package maia.configure.error
 
 import kotlin.reflect.KProperty
 

@@ -1,9 +1,9 @@
-package māia.configure.error
+package maia.configure.error
 
-import māia.configure.Configurable
-import māia.configure.Configuration
-import māia.configure.getConfigurationClassUntyped
-import māia.util.createProjectedType
+import maia.configure.Configurable
+import maia.configure.Configuration
+import maia.configure.getConfigurationClassUntyped
+import maia.util.createProjectedType
 import kotlin.reflect.KClass
 
 /**

@@ -1,12 +1,12 @@
-package māia.configure.util
+package maia.configure.util
 
-import māia.configure.Configuration
-import māia.configure.ConfigurationElement
-import māia.configure.visitation.ConfigurationVisitable
-import māia.configure.visitation.ConfigurationVisitor
-import māia.configure.initialise
-import māia.configure.visitation.visit
-import māia.util.lambda
+import maia.configure.Configuration
+import maia.configure.ConfigurationElement
+import maia.configure.visitation.ConfigurationVisitable
+import maia.configure.visitation.ConfigurationVisitor
+import maia.configure.initialise
+import maia.configure.visitation.visit
+import maia.util.lambda
 import java.util.*
 import kotlin.reflect.KClass
 

@@ -1,4 +1,4 @@
-package māia.configure.error
+package maia.configure.error
 
 /**
  * Error for when the integrity of a configuration is violated.
